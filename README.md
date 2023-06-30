@@ -1,6 +1,6 @@
 # Laravel Mix Setup with PurgeCSS and Browser Sync
 
-This script sets up Laravel Mix, a powerful build tool for Laravel applications, with additional features such as PurgeCSS for removing unused CSS and browser synchronization for live reloading during development. It provides a streamlined configuration for compiling and optimizing front-end assets like JavaScript and Sass files. Additionally, it includes an option to version assets for production environments.
+This script sets up Laravel Mix, a powerful build tool for Laravel applications, with additional features such as PurgeCSS for removing unused CSS and browser synchronization for live reloading during development. It provides a streamlined configuration for compiling and optimising front-end assets like JavaScript and Sass files. Additionally, it includes an option to version assets for production environments.
 
 ## Installation
 
